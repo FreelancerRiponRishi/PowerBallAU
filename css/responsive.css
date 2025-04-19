@@ -1,0 +1,1139 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 1200px) and (max-width: 1279px) {
+.header-area {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+.newtext-area {
+	padding: 60px 0px;
+}
+
+.footer-area {
+    padding: 60px 30px;
+    padding-bottom: 0px;
+}
+
+.hero-area {
+    padding-bottom: 190px;
+}
+
+.herototime {
+    width: 50%;
+}
+
+.playplayers-area {
+    padding-left: 30px;
+    padding-right: 30px;     
+}
+
+.container {
+    padding: 0 30px;
+}
+
+
+.heroitem1-text h1 {
+    font-size: 45px;
+    line-height: 56px;
+}
+
+.hero-part {
+    position: relative;
+    width: 1140px;
+    display: block;
+    margin: auto;
+}
+
+.heroitemrtbox {
+    width: 262px;
+    height: 90px;
+    padding: 18px 21px;
+    margin: auto;
+    margin-right: 0;
+    border-radius: 15px;
+}
+
+.previouspbres-item1 {
+    padding: 25px 25px;
+}
+
+.previouspbres-item1 ul li {
+    font-size: 16px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    margin-right: 3px;
+}
+
+
+.reviews-bg img {
+    width: 100%;
+    display: block;
+    height: 54px;
+}
+
+.reviews-user img {
+    margin-left: 59px;
+}
+
+
+.mainplayerreviews {
+    width: 1140px;
+    margin: auto;
+}
+
+
+
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+
+.header-area {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+.newtext-area {
+	padding: 60px 30px;
+}
+
+.footer-area {
+    padding: 60px 30px;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+.footer-nav ul li a {
+    font-size: 14px;
+}
+
+
+
+.hero-area {
+    padding-bottom: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+.playplayers-area {
+    padding-left: 30px;
+    padding-right: 30px;     
+}
+
+
+
+.faqpart {
+    width: 100%;
+}
+
+
+.container {
+    padding: 0 30px;
+}
+
+.reviews-bg img {
+    width: 100%;
+    display: block;
+    height: 54px;
+}
+
+.reviews-user img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: -43px;
+    margin-left: 51px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.heroitem1-text {
+    padding: 60px 35px;
+    border-radius: 15px;
+    background-image: url(../img/mbheroimg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.herobigimg {
+    width: 100%;
+    display: none;
+}
+
+.heroitems {
+    display: block;
+    position: initial;
+    width: 100%;
+}
+
+.heroitem-left {
+    width: 100%;
+}
+
+.heroitem-right {
+    display: none;
+}
+
+.mbheroitemrtbox {
+    display: block;
+    margin-top: 30px;
+}
+
+.heroitemrtbox {
+    width: 100%;
+}
+
+.previouspbresults-part {
+    grid-column-gap: 20px;
+    justify-content: space-around;
+    grid-row-gap: 20px;
+}
+
+
+.previouspbres-item1 {
+    padding: 25px 16px;
+}
+
+.previouspbres-item1 ul li {
+    font-size: 14px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    margin-right: 0px;
+}
+
+.previouspbres-item2 {
+    padding: 16px 16px;
+    padding-bottom: 18px;
+}
+
+.previouspbres-item1 h4 {
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 9px;
+}
+
+.previouspbres-item1 h2 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.previouspbres-item2 h3 {
+    font-size: 20px;
+    line-height: 33px;
+}
+
+
+
+.mainplayerreviews {
+    width: 964px;
+    margin: auto;
+}
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.header-area {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.newtext-area {
+    padding: 70px 0px;
+}
+
+.footer-area {
+    padding: 60px 30px;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+.footer-logos ul {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.footer-nav ul {
+    text-align: center;
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    padding: 0 15px;
+}
+
+
+
+.hero-area {
+    padding: 80px 0px;
+    padding-top: 80px;
+}
+
+
+
+
+.herotop-right {
+    width: 100%;
+}
+
+.mainplayerreviews {
+    padding-bottom: 80px;
+    display: block;
+    width: 708px;
+    margin: auto;
+}
+
+.playerreviews-box {
+    position: relative;
+    margin-bottom: 45px;
+}
+
+.reviews-bg {
+    position: absolute;
+    left: 0px;
+    top: -4px;
+    width: 100%;
+}
+
+.reviews-user img {
+    margin-left: 94px;
+}
+
+
+.playerreviews-heading p {
+    font-size: 14px;
+}
+
+
+
+.playplayers-area {
+    padding: 80px 30px;
+}
+
+
+.playitem-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 25px;
+    justify-content: space-around;
+    grid-row-gap: 25px;
+}
+
+.playpart-heading h2 {
+    font-size: 30px;
+}
+
+.faqpart {
+    width: 100%;
+}
+
+.herobigimg {
+    width: 100%;
+    display: none;
+}
+
+.heroitems {
+    display: block;
+    position: initial;
+}
+
+.heroitem-left {
+    width: 100%;
+}
+
+.heroitem1-text {
+    padding: 60px 35px;
+    border-radius: 15px;
+    background-image: url(../img/mbheroimg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heroitem1-text h1 {
+    font-size: 48px;
+    line-height: 72px;
+}
+
+
+.heroitem-right {
+    display: none;
+}
+
+.heroitem2-text ul {
+    padding-left: 12px;
+    padding-top: 13px;
+}
+
+.heroitem2-text ul li {
+    display: block;
+    padding-bottom: 12px;
+}
+
+
+
+
+.container {
+    padding: 0 30px;
+}
+
+
+.previouspbresults-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+}
+
+
+.previouspbres-item1 {
+    padding: 20px 25px;
+}
+
+.previouspbres-item1 ul li {
+    font-size: 14px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    margin-right: 1px;
+}
+
+.previouspbres-item1 h4 {
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 6px;
+}
+
+
+.previouspbres-item1 h2 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 31px;
+    margin: 0;
+    padding-bottom: 18px;
+}
+
+.previouspbres-item2 h3 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.reviews-bg img {
+    width: 100%;
+    display: block;
+    height: 61px;
+}
+
+.mbheroitemrtbox {
+    display: block;
+}
+
+.heroitemrtbox {
+    width: 100%;
+    height: 95px;
+    padding: 18px 28px;
+    margin: auto;
+    margin-right: 0;
+    margin-top: 25px;
+}
+
+.previouspbresults-hd h2 {
+    font-size: 35px;
+    line-height: 60px;
+}
+
+
+
+
+
+}
+
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.header-area {
+    padding: 15px 0px;
+}
+
+.topheader-area {
+    padding: 2px 16px;
+}
+
+.topheader-part p {
+    font-size: 10px;
+}
+
+.topheader-part p img {
+    width: 16px;
+    height: 16px;
+    display: block;
+    margin-right: 4px;
+}
+
+.header-logo {
+	width: 48%;
+}
+
+.header-btn {
+	width: 52%;
+}
+
+.header-logo img {
+        display: block;
+        height: initial;
+        width: initial;
+        max-width: 100%;
+}
+
+
+
+.header-btn ul li:nth-child(1) {
+	padding-left: 0px;
+}
+
+    .header-btn ul li:nth-child(1) a {
+        font-size: 11px;
+        width: initial;
+        height: initial;
+        display: block;
+        text-align: center;
+        line-height: initial;
+        padding: 10px 10px;
+    }
+
+
+.header-btn ul li:nth-child(2) a {
+        font-size: 11px;
+        width: initial;
+        height: initial;
+        display: block;
+        text-align: center;
+        line-height: initial;
+        padding: 10px 10px;
+}
+
+.header-btn ul li {
+    display: inline-block;
+    padding-left: 5px;
+}
+
+
+
+
+.herobigimg {
+    width: 100%;
+    display: none;
+}
+
+
+.heroitems {
+    display: block;
+    position: initial;
+    width: 100%;
+    top: 0;
+    z-index: 98;
+}
+
+
+.heroitem-left {
+    width: 100%;
+}
+
+.heroitem-right {
+    width: 100%;
+    display: none;
+}
+
+
+.heroitem1-text {
+    padding: 60px 20px;
+    border-radius: 15px;
+    background-image: url('../img/mbheroimg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heroitem1-text h1 {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 47px;
+}
+
+.heroitem1-text p br {
+    display: none;
+}
+
+.heroitem1-text p {
+    font-size: 16px;
+    line-height: 27px;
+    padding-top: 14px;
+}
+
+
+.heroitem1-text a {
+    font-size: 14px;
+    padding: 10px 20px;
+    margin-top: 32px;
+}
+
+.heroitem2-text ul li p {
+    margin-top: -13px;
+}
+
+.heroitem2-text ul li {
+    display: block;
+    padding-bottom: 13px;
+}
+
+
+.previouspbresults-hd h2 {
+    font-size: 28px;
+    line-height: 44px;
+    font-weight: 600;
+}
+
+.previouspbresults-area {
+    padding: 45px 0;
+}
+
+.previouspbresults-hd {
+    padding-bottom: 50px;
+}
+
+.previouspbresults-part {
+    grid-template-columns: repeat(1, 1fr);
+    grid-column-gap: 35px;
+    grid-row-gap: 25px;
+}
+
+
+.previouspbres-item1 {
+    padding: 25px 15px;
+}
+
+.previouspbres-item1 ul li {
+    font-size: 14px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    line-height: 32px;
+    text-align: center;
+    margin-right: 1px;
+}
+
+.previouspbres-item1 h4 {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 5px;
+}
+
+.previouspbres-item1 h2 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    margin: 0;
+    padding-bottom: 18px;
+}
+
+.previouspbres-item2 {
+    padding: 16px 15px;
+    padding-bottom: 18px;
+}
+
+.previouspbres-item2 h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 25px;
+}
+
+.mainplayerreviews {
+    display: block;
+    padding-bottom: 0px;
+}
+
+
+
+.playerreviews-heading h2 {
+    font-size: 28px;
+    text-align: center;
+    line-height: 41px;
+    padding-bottom: 18px;
+    font-weight: 600;
+}
+
+.playerreviews-heading p {
+    font-size: 14px;
+    line-height: 26px;
+    margin: 0;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+.cmreviews-rating {
+    display: none;
+}
+
+
+.mbreviews-rating {
+    display: block;
+}
+
+
+.cmreviews-bg {
+    display: none;
+}
+
+.mbreviews-bg {
+    display: block;
+}
+
+
+.innerplayerreviews {
+    padding: 25px 16px;
+    box-sizing: border-box;
+    padding-top: 14px;
+}
+
+.reviews-bg {
+    position: relative;
+    left: 0px;
+    top: 0;
+}
+
+.mbreviews-rating {
+    display: block;
+    height: inherit;
+    padding-right: 0;
+    padding-bottom: 17px;
+}
+
+
+
+.reviews-rating h6 {
+    font-size: 14px;
+    justify-content: left;
+}
+
+
+.reviews-rating h6 img {
+    height: 16px;
+    display: block;
+    margin-left: 11px;
+    padding-top: 2px;
+}
+
+
+.innerplayerreviews h2 {
+    font-size: 16px;
+    line-height: 25px;
+    padding-bottom: 10px;
+}
+
+.innerplayerreviews p {
+    font-size: 14px;
+    margin: 0;
+    line-height: 22px;
+    font-weight: 300;
+}
+
+.playerreviews-item2 {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+
+.reviews-user img {
+    margin: auto;
+    margin-bottom: -33px;
+    margin-left: auto;
+}
+
+.playerreviews-heading {
+    padding-bottom: 40px;
+}
+
+
+.playerreviews-area {
+    padding: 45px 0;
+    padding-bottom: 45px;
+}
+
+.reviews-bg img {
+    height: 49px;
+}
+
+
+.responsiblegaming-part h2 {
+    font-size: 25px;
+    line-height: 45px;
+    padding-bottom: 20px;
+}
+
+
+.responsiblegaming-area {
+    padding-top: 30px;
+}
+
+.responsiblegaming-part p {
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 300;
+}
+
+.footer-text p br {
+    display: none;
+}
+
+
+.newtext-area {
+    padding: 40px 0px;
+}
+
+.newtext-heading h2 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.newtext-heading {
+    padding-bottom: 30px;
+}
+
+
+.newtext-item1 h3 {
+    font-size: 16px;
+    padding-bottom: 20px;
+    line-height: 28px;
+}
+
+.newtext-item1 p {
+    font-size: 14px;
+    margin: 0;
+    font-weight: 300;
+    line-height: 23px;
+}
+
+.newtext-item2 ul li p {
+    font-size: 14px;
+}
+
+.newtext-item2 h3 {
+    font-size: 16px;
+    padding-bottom: 20px;
+    line-height: 28px;
+}
+
+
+
+
+
+
+.footer-logos ul {
+    padding-top: 35px;
+    text-align: center;
+}
+
+.footer-logos ul li {
+    display: inline-block;
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    padding: 0 6px;
+    padding-bottom: 16px;
+}
+
+
+.footer-area {
+    padding: 40px 0px;
+    padding-bottom: 0px;
+}
+
+.footer-part {
+    display: block;
+}
+
+
+.footer-nav {
+    padding: 30px 0;
+    padding-bottom: 22px;
+}
+
+.footer-logos ul li:nth-child {
+	padding-right: 0px;
+}
+
+.footer-logos ul li a img {
+    height: 37px;
+    display: block;
+}
+
+.footer-logos ul li {
+    margin: 0px 2px;
+}
+
+.footer-nav ul li a {
+    font-size: 12px;
+}
+
+.footer-copyright p {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.footer-copyright {
+    padding-top: 20px;
+}
+
+
+.form-area {
+    padding: 40px 0px;
+    padding-top: 40px;
+}
+
+.formbox {
+    width: 100%;
+    display: block;
+    margin: auto;
+    padding: 40px 12px;
+    padding-bottom: 50px;
+    border-radius: 15px;
+}
+
+
+.formpart input[type="submit"] {
+    padding: 10px 0;
+}
+
+.checkboxpart br {
+	display: none;
+}
+
+.formheading h2 {
+    font-size: 28px;
+}
+
+.fromitems p {
+    font-size: 12px;
+}
+
+.checkboxpart {
+    padding-left: 36px;
+    user-select: none;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+}
+
+
+
+
+.fromitem3 h6 {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.fromitem3 {
+    padding-top: 0px;
+    padding-bottom: 25px;
+}
+
+.maincheckbox {
+    padding-bottom: 20px;
+}
+
+.createant a {
+    font-size: 16px;
+    padding: 10px 0;
+    margin-top: 30px;
+}
+
+.fromitemor p {
+    font-size: 14px;
+    width: 61px;
+    margin: auto;
+    margin-top: -12px;
+}
+
+
+
+
+
+.playplayers-area {
+    padding: 40px 16px;
+}
+
+
+.playpart-heading h2 {
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.playpart-heading {
+    padding-bottom: 30px;
+}
+
+.playitem-part {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+
+.playersfdtext {
+    padding-top: 14px;
+}
+
+
+.faqpart {
+    border-radius: 15px;
+    width: 100%;
+    overflow: hidden;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    padding-top: 35px;
+}
+
+.faq-heading h2 {
+    font-size: 30px;
+}
+
+.ziehharmonika h3 {
+    font-size: 15px;
+    border-radius: 0;
+    padding: 16px 0px;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding-right: 24px;
+    line-height: 24px;
+}
+
+.ziehharmonika .collapseIcon img {
+    max-width: initial;
+    height: 13px;
+    width: 13px;
+}
+
+.ziehharmonika > div p {
+    padding: 0 0px;
+    line-height: 26px;
+}
+
+.ziehharmonika > div {
+    border-radius: 0px;
+    padding: 0px 0px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.ziehharmonika .collapseIcon {
+    position: absolute;
+    right: 6px;
+    top: 51%;
+    font-size: 20px;
+}
+
+.ziehharmonika span {
+    margin-top: 23px;
+}
+
+.hero-area {
+    padding: 40px 0px;
+    padding-top: 40px;
+}
+
+
+
+.herotop-right {
+    width: 100%;
+}
+
+.herotoprt-text p {
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 12px;
+}
+
+.mbheroimg {
+    display: block;
+}
+
+.mbheroimg img {
+    max-width: 100%;
+    display: block;
+}
+
+
+.footer-text p {
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.faq-heading {
+    padding-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+}
